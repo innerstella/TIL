@@ -1,5 +1,6 @@
 ## HEAD
 
+<img src='./assets/240109_Git_HEAD.png'>
 - 현재 branch를 가리키는 포인터
 - 마지막 commit 스냅샷
 - 다음 commit의 부모 commit
