@@ -1,6 +1,7 @@
 ## 1. Create a merge commit
 
 <img src='./assets/create_and_merge.png'>
+
 - `두 branch의 변경 사항을 모두 유지하면서 merge`
 - 각 branch의 변경 사항이 과거의 commit으로 보존되고, 새로운 commit이 추가되어 최종 merge
 - 장점
@@ -12,6 +13,7 @@
 ## 2. Squash and merge
 
 <img src='./assets/squash_and_merge.png'>
+
 - `branch에서의 모든 변경 사항을 하나의 commit으로 압축하여 merge`
 - 각각의 commit에서 발생한 모든 변경 사항을 merge한 후, 하나의 새로운 commit을 생성함
 - 특정 기능 개발 후 develop branch에 merge하고자 할 때 유용할 수 있음
@@ -28,6 +30,7 @@
 ## 3. Rebase and merge
 
 <img src='./assets/rebase_and_merge.png'>
+
 - `현재 branch를 target branch에 rebase시킨 후 merge`
 - target branch의 commit위로 현재 branch의 모든 commit을 옮겨 놓는 것과 같음
 - develop 브랜치를 production 브랜치로 머지하고자 할 때, production 브랜치를 간결하게 하고자 할 때 유용할 수 있음
