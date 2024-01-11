@@ -14,6 +14,7 @@
 <img src='./assets/squash_and_merge.png'>
 - `branch에서의 모든 변경 사항을 하나의 commit으로 압축하여 merge`
 - 각각의 commit에서 발생한 모든 변경 사항을 merge한 후, 하나의 새로운 commit을 생성함
+- 특정 기능 개발 후 develop branch에 merge하고자 할 때 유용할 수 있음
 - 장점
   - 간단한 commit 히스토리
     - 각 commit이 특정 PR을 대변하여 의미를 이해하기 쉬워짐
@@ -29,6 +30,7 @@
 <img src='./assets/rebase_and_merge.png'>
 - `현재 branch를 target branch에 rebase시킨 후 merge`
 - target branch의 commit위로 현재 branch의 모든 commit을 옮겨 놓는 것과 같음
+- develop 브랜치를 production 브랜치로 머지하고자 할 때, production 브랜치를 간결하게 하고자 할 때 유용할 수 있음
 - 장점
   - 깨끗하고 선형적인 commit 히스토리 → 히스토리 파악 및 코드 변화 이해 쉬움
 - 단점
