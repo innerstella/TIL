@@ -27,3 +27,4 @@
 
 ### JavaScript
 - [[240112] var, let, const](https://github.com/innerstella/TIL/blob/main/JavaScript/240112_var_let_const.md)
+- [[240115] scope](https://github.com/innerstella/TIL/blob/main/JavaScript/240115_scope.md)
