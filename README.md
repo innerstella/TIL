@@ -20,6 +20,12 @@
 ### CSS
 - [[240113] rem, em](https://github.com/innerstella/TIL/blob/main/CSS/240113_CSS_rem_em.md)
 
+### Data Structure
+- [[240116] stack](https://github.com/innerstella/TIL/blob/main/DataStructure/240116_stack.md)
+
+### Design Pattern
+- [[240117] SOLID](https://github.com/innerstella/TIL/blob/main/DesignPattern/240117_SOLID.md)
+
 ### Git
 - [[240109] HEAD](https://github.com/innerstella/TIL/blob/main/Git/240109_Git_HEAD.md)
 - [[240110] PR MERGE](https://github.com/innerstella/TIL/blob/main/Git/240110_Git_PR_MERGE.md)
@@ -28,6 +34,3 @@
 ### JavaScript
 - [[240112] var, let, const](https://github.com/innerstella/TIL/blob/main/JavaScript/240112_var_let_const.md)
 - [[240115] scope](https://github.com/innerstella/TIL/blob/main/JavaScript/240115_scope.md)
-
-### Data Structure
-- [[240116] stack](https://github.com/innerstella/TIL/blob/main/DataStructure/240116_stack.md)
