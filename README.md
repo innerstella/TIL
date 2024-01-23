@@ -35,6 +35,8 @@
 - [[240112] var, let, const](https://github.com/innerstella/TIL/blob/main/JavaScript/240112_var_let_const.md)
 - [[240115] scope](https://github.com/innerstella/TIL/blob/main/JavaScript/240115_scope.md)
 - [[240118] hoisting](https://github.com/innerstella/TIL/blob/main/JavaScript/240118_hoisting.md)
+- [[240122] event bubbling, capturing, delegation](https://github.com/innerstella/TIL/blob/main/JavaScript/240122_event_bubbling_capturing.md)
 
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
+- [[240123] HTTP METHOD](https://github.com/innerstella/TIL/blob/main/Web/240123_http_method.md)
