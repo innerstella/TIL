@@ -17,6 +17,9 @@
 - 학습 : '오늘의 일에서 나는 어떤 것을 배웠는지'
 
 -----
+### Algorithm
+- [[240126] LRU](https://github.com/innerstella/TIL/blob/main/Algorithm/240126_LRU.md)
+
 ### CSS
 - [[240113] rem, em](https://github.com/innerstella/TIL/blob/main/CSS/240113_CSS_rem_em.md)
 
