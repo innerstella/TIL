@@ -43,6 +43,9 @@
 - [[240125] Map, Set](https://github.com/innerstella/TIL/blob/main/JavaScript/240125_map_set.md)
 - [[240129] then](https://github.com/innerstella/TIL/blob/main/JavaScript/240129_then.md)
 
+### React
+- [[240131] Declarative](https://github.com/innerstella/TIL/blob/main/React/240131_declarative.md)
+
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
 - [[240123] HTTP METHOD](https://github.com/innerstella/TIL/blob/main/Web/240123_http_method.md)
