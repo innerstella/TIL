@@ -42,6 +42,7 @@
 - [[240124] this](https://github.com/innerstella/TIL/blob/main/JavaScript/240124_this.md)
 - [[240125] Map, Set](https://github.com/innerstella/TIL/blob/main/JavaScript/240125_map_set.md)
 - [[240129] then](https://github.com/innerstella/TIL/blob/main/JavaScript/240129_then.md)
+- [[240201] 자바스크립트 동작 원리](https://github.com/innerstella/TIL/blob/main/JavaScript/240201_eventloop.md)
 
 ### React
 - [[240131] Declarative](https://github.com/innerstella/TIL/blob/main/React/240131_declarative.md)
