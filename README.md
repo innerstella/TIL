@@ -47,6 +47,7 @@
 ### React
 - [[240131] Declarative](https://github.com/innerstella/TIL/blob/main/React/240131_declarative.md)
 - [[240202] fragment, null, undefined](https://github.com/innerstella/TIL/blob/main/React/240202_fragment_null.md)
+- [[240203] Virtual DOM](https://github.com/innerstella/TIL/blob/main/React/240203_virtual_dom.md)
 
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
