@@ -1,8 +1,3 @@
-<aside>
-❓ jsx에서 `null`, `undefined`, `fragment` 렌더링이 어떤 차이를 가지는 지 꼭 공부해보기
-
-</aside>
-
 ## JSX는 `null`, `undefined`, `Fragment` 모두 반환할 수 있다
 
 ```jsx
