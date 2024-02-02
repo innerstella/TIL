@@ -17,7 +17,7 @@
 
 ## Virtual DOM
 
-!https://res.cloudinary.com/practicaldev/image/fetch/s--NCIpFhXv--/c_limit,f_auto,fl_progressive,q_auto,w_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/02llb1lq9vc25v7l8dfb.PNG
+<img src='https://dev-to-uploads.s3.amazonaws.com/uploads/articles/02llb1lq9vc25v7l8dfb.PNG' />
 
 - 실제 DOM에 접근하여 조작하는 대신, 이를 추상화한 자바스크립트 객체를 구성하여 사용함
 - 리액트에서 데이터가 변하여 웹 브라우저에 실제 DOM을 업데이트할 때는 다음 3가지 절차를 밟음
