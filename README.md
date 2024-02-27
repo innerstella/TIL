@@ -40,6 +40,7 @@
 - [[240201] 자바스크립트 동작 원리](https://github.com/innerstella/TIL/blob/main/JavaScript/240201_eventloop.md)
 - [[240206] 변수](https://github.com/innerstella/TIL/blob/main/JavaScript/240206_variable.md)
 - [[240226] innerHTML vs insertAdjacentHTML](https://github.com/innerstella/TIL/blob/main/JavaScript/240226_innerHTML_insertAdjacentHTML.md)
+- [[240227] HTMLCollection vs NodeList](https://github.com/innerstella/TIL/blob/main/JavaScript/240227_HTMLCollection_NodeList.md)
 
 ### React
 - [[240131] Declarative](https://github.com/innerstella/TIL/blob/main/React/240131_declarative.md)
