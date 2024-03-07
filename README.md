@@ -42,6 +42,7 @@
 - [[240226] innerHTML vs insertAdjacentHTML](https://github.com/innerstella/TIL/blob/main/JavaScript/240226_innerHTML_insertAdjacentHTML.md)
 - [[240227] HTMLCollection vs NodeList](https://github.com/innerstella/TIL/blob/main/JavaScript/240227_HTMLCollection_NodeList.md)
 - [[240228] 전역변수의 문제점](https://github.com/innerstella/TIL/blob/main/JavaScript/240228_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98_%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+- [[240307] page load event](https://github.com/innerstella/TIL/blob/main/JavaScript/240307_page_load_event.md)
 
 ### React
 - [[240131] Declarative](https://github.com/innerstella/TIL/blob/main/React/240131_declarative.md)
