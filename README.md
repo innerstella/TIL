@@ -52,6 +52,9 @@
 - [[240205] 리액트에서 배열을 렌더링할 때 key가 필요한 이유](https://github.com/innerstella/TIL/blob/main/React/240205_list_key.md)
 - [[240218] 생명주기](https://github.com/innerstella/TIL/blob/main/React/240218_life_cycle.md)
 
+### TypeScript
+- [[240321] Generic](https://github.com/innerstella/TIL/blob/main/TypeScript/240321_Generic.md)
+
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
 - [[240123] HTTP METHOD](https://github.com/innerstella/TIL/blob/main/Web/240123_http_method.md)
