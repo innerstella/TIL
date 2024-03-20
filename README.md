@@ -2,14 +2,6 @@
 24.01.09. ~ <br>
 결과보다 과정을 보자 !(•̀ᴗ•́)و̑ 
 
-
-
-## 📌 작성 규칙
-
-- 파일명 : `날짜_제목`
-- 누가 보더라도 이해할 수 있게 작성
-- 레퍼런스 명시
-
 -----
 ### Algorithm
 - [[240126] LRU](https://github.com/innerstella/TIL/blob/main/Algorithm/240126_LRU.md)
