@@ -46,6 +46,7 @@
 
 ### TypeScript
 - [[240321] Generic](https://github.com/innerstella/TIL/blob/main/TypeScript/240321_Generic.md)
+- [[240322] type vs interface](https://github.com/innerstella/TIL/blob/main/TypeScript/240322_type_interface.md)
 
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
