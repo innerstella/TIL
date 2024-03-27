@@ -51,3 +51,4 @@
 ### Web
 - [[240119] CSR SSR SSG](https://github.com/innerstella/TIL/blob/main/Web/240119_CSR_SSR_SSG.md)
 - [[240123] HTTP METHOD](https://github.com/innerstella/TIL/blob/main/Web/240123_http_method.md)
+- [[240327] 프리렌더링](https://github.com/innerstella/TIL/blob/main/Web/240327_%ED%94%84%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81.md)
